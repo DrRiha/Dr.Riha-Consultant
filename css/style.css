@@ -14,7 +14,7 @@
     margin:0; padding: 0;
     box-sizing: border-box;
     outline: none; border: none;
-    text-transform: none;
+    
     transition: all .2s ease-out;
     text-decoration: none;
 }
@@ -38,14 +38,14 @@ section:nth-child(even){
     text-align: center;
     padding-bottom: 2rem;
     text-shadow: var(--text-shadow);
-    text-transform: uppercase;
+    
     color:var(--black);
     font-size: 5rem;
     letter-spacing: .4rem;
 }
 
 .heading span{
-    text-transform: uppercase;
+    
     color:var(--green);
 }
 
